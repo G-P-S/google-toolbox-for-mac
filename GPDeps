@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+
+    "info": {
+         "type": "app",
+         "visibility": "public",
+         "platforms": ["ios"]
+    }
+}
+
