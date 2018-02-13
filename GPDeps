@@ -2,7 +2,7 @@
     "version": "1.0.0",
 
     "info": {
-         "type": "app",
+         "type": "lib",
          "visibility": "public",
          "platforms": ["ios"]
     }
